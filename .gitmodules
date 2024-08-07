@@ -1,3 +1,6 @@
 [submodule "pigGame"]
 	path = pigGame
 	url = https://github.com/armandabir/pigGame.git
+[submodule "tik-tak-toe"]
+	path = tik-tak-toe
+	url = https://github.com/armandabir/tik-tak-toe.git
