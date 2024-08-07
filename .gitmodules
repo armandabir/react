@@ -4,3 +4,6 @@
 [submodule "tik-tak-toe"]
 	path = tik-tak-toe
 	url = https://github.com/armandabir/tik-tak-toe.git
+[submodule "balance-friends"]
+	path = balance-friends
+	url = https://github.com/armandabir/balance-friends.git
