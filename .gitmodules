@@ -7,3 +7,6 @@
 [submodule "balance-friends"]
 	path = balance-friends
 	url = https://github.com/armandabir/balance-friends.git
+[submodule "tic-tac-toe-reducer"]
+	path = tic-tac-toe-reducer
+	url = https://github.com/armandabir/tic-tac-toe-reducer.git
